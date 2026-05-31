@@ -64,5 +64,6 @@ The screenshots folder contains:
 •	Scale-out Event (2 to 4 Instances)
 •	Healthy Targets
 •	Website Access through ALB DNS
+
 Author
 Anshika Arya
