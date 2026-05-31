@@ -9,11 +9,11 @@ AWS Services Used
 •	Amazon EC2
 •	Security Groups
 •	Apache Web Server
-•	 Amazon Machine Image (AMI)  
+•	Amazon Machine Image (AMI)  
 •	Target Group
-•	 Application Load Balancer (ALB)  
+•	Application Load Balancer (ALB)  
 •	Launch Template
-•	 Auto Scaling Group (ASG)  
+•	Auto Scaling Group (ASG)  
 •	CloudWatch
 
 Architecture
