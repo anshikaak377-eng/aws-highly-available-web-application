@@ -7,9 +7,7 @@ This project demonstrates the deployment of a highly available web application o
 AWS Services Used
 
 •	Amazon EC2
-
 •	Security Groups
-
 •	Apache Web Server
 •	 Amazon Machine Image (AMI)  
 •	Target Group
