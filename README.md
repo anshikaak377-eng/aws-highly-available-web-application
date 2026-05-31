@@ -49,12 +49,14 @@ o	Maximum Capacity: 4
 •	Confirmed all instances passed health checks successfully.
 
 Project Results
+
 •	Successfully deployed a highly available web application.
 •	Load Balancer distributed incoming traffic.
 •	Auto Scaling automatically launched additional EC2 instances when traffic increased.
 •	Target Group registered all instances and reported healthy status.
 
 Screenshots
+
 The screenshots folder contains:
 •	EC2 Instance
 •	Security Group
