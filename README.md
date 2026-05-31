@@ -1,9 +1,11 @@
 ## AWS Highly Available Web Application
 
 Project Overview
+
 This project demonstrates the deployment of a highly available web application on AWS using EC2, Application Load Balancer (ALB), Auto Scaling Group (ASG), Target Group, Launch Template, and a custom Amazon Machine Image (AMI).
 
 AWS Services Used
+
 •	Amazon EC2
 •	Security Groups
 •	Apache Web Server
@@ -15,9 +17,11 @@ AWS Services Used
 •	CloudWatch
 
 Architecture
+
 User → Application Load Balancer → Target Group → Auto Scaling Group → EC2 Instances
 
 Project Implementation
+
 1. EC2 Instance Creation
 •	Launched an Amazon Linux EC2 instance.
 •	Configured Security Groups for HTTP, HTTPS and SSH access.
