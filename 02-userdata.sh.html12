@@ -1,0 +1,20 @@
+#!/bin/bash
+yum update -y
+yum install httpd -y
+systemctl start httpd
+systemctl enable httpd
+cd /var/www/html
+
+cat > index.html <<EOF
+<html>
+<head>
+	<title>My first Website</title>
+</head>
+<body>
+	<h1>AWS Highly Available Web Application</h1>
+	<h2>Created by Anshika Arya</h2>
+	<p>Built using EC2, AMI,Target Group, ELB, Launch Template, Auto Scaling</p>
+	<h3>You can see my website and give your feedback</h3>
+</body>
+</html>
+EOF
